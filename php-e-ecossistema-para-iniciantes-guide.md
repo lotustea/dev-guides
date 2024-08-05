@@ -865,9 +865,7 @@ Manter o status atualizado no board é crucial para a transparência e a eficiê
 
 Adotar boas práticas e padrões no uso do Git, gerenciamento de tarefas, e manutenção de ambientes é fundamental para o sucesso do desenvolvimento de software. Isso não apenas melhora a eficiência e a qualidade do código, mas também facilita a colaboração e a comunicação entre os membros da equipe. Ferramentas como GitHub, GitLab, Azure DevOps, e quadros de tarefas como Kanban e Scrum são essenciais para implementar essas práticas de forma eficaz. Ao seguir essas diretrizes, os desenvolvedores podem garantir que seus projetos sejam bem-organizados, seguros e entregues dentro do prazo e orçamento.
 
-Claro, aqui está o segundo arquivo `.md` contendo exemplos práticos de tudo que foi discutido anteriormente.
-
-### Arquivo 3: Exemplos Práticos
+### Exemplos Práticos
 
 # Exemplos Práticos para Desenvolvedores Iniciantes
 
